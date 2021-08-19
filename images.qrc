@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/icos">
+        <file>toolBar-ico/file.png</file>
+        <file>toolBar-ico/conn.png</file>
+        <file>toolBar-ico/save-data.png</file>
+        <file>toolBar-ico/save-pic.png</file>
+        <file>toolBar-ico/start.png</file>
+        <file>toolBar-ico/company-ico.png</file>
+        <file>toolBar-ico/App-ico.png</file>
+        <file>toolBar-ico/App-ico.ico</file>
+        <file>toolBar-ico/noise.png</file>
+        <file>toolBar-ico/set.ico</file>
+        <file>toolBar-ico/company-logo.png</file>
+        <file>toolBar-ico/singal-point.png</file>
+        <file>toolBar-ico/single.png</file>
+        <file>toolBar-ico/lisen-logo.ico</file>
+        <file>toolBar-ico/app.ico</file>
+        <file>toolBar-ico/app.png</file>
+        <file>toolBar-ico/save-light.png</file>
+        <file>toolBar-ico/save-power.png</file>
+        <file>toolBar-ico/stop.png</file>
+    </qresource>
+    <qresource prefix="/menuIcos">
+        <file>menu-ico/exit.png</file>
+        <file>menu-ico/about.png</file>
+        <file>menu-ico/auto-adapt.png</file>
+        <file>menu-ico/help.png</file>
+        <file>menu-ico/set.png</file>
+        <file>menu-ico/auto-light.png</file>
+    </qresource>
+</RCC>
